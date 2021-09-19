@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7176885d.chunk.css",
+    "main.js": "/static/js/main.f22a753c.chunk.js",
+    "main.js.map": "/static/js/main.f22a753c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8c6aeb4d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8c6aeb4d.js.map",
+    "static/js/2.314020e9.chunk.js": "/static/js/2.314020e9.chunk.js",
+    "static/js/2.314020e9.chunk.js.map": "/static/js/2.314020e9.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.7176885d.chunk.css.map": "/static/css/main.7176885d.chunk.css.map",
+    "static/js/2.314020e9.chunk.js.LICENSE.txt": "/static/js/2.314020e9.chunk.js.LICENSE.txt",
+    "static/media/digital-alarm.7ba9fbe4.wav": "/static/media/digital-alarm.7ba9fbe4.wav"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8c6aeb4d.js",
+    "static/js/2.314020e9.chunk.js",
+    "static/css/main.7176885d.chunk.css",
+    "static/js/main.f22a753c.chunk.js"
+  ]
+}
